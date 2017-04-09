@@ -2,7 +2,7 @@
 MICS5524 mics(0x03);
 void setup() 
 {
-     MICS5524.begin();
+     mics.begin();
      Serial.begin(9600);
 }
 

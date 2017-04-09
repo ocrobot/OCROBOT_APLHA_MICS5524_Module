@@ -29,5 +29,3 @@ uint16_t MICS5524::readOdor()
 	ByteToUint(outOdor,Byte);
 	return outOdor;
  }
-	
-}
