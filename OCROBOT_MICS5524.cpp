@@ -1,6 +1,5 @@
 #include "OCROBOT_MICS5524.h"
-#include <Wire.h>
-#include "Variable.h"
+
 
 MICS5524::MICS5524(byte Addr)
 {
